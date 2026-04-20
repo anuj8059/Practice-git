@@ -1,3 +1,5 @@
 print("Hello, World!")
 print("Welcome to Git practice.")
 print("This is a simple Python script from main.")
+print("This is a simple Python script from anuj branch.")
+print("This line is added in the anuj branch also.")
